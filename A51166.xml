@@ -1,0 +1,129 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Monsieur Covenant's last vvill and testament</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1662</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 11 KB of XML-encoded text transcribed from 3 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A51166</idno>
+            <idno type="STC">Wing M2457</idno>
+            <idno type="STC">ESTC R3661</idno>
+            <idno type="EEBO-CITATION">12964556</idno>
+            <idno type="OCLC">ocm 12964556</idno>
+            <idno type="VID">96111</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A51166)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 96111)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 392:4)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Monsieur Covenant's last vvill and testament</title>
+               </titleStmt>
+               <extent>4 p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1662]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Place and date of publication from Wing.</note>
+                  <note>Reproduction of original in Union Theological Seminary Library, New York.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-02</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-03</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-04</date>
+            <label>Scott Lepisto</label>Sampled and proofread</change>
+         <change>
+            <date>2009-04</date>
+            <label>Scott Lepisto</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb facs="tcp:96111:1" rendition="simple:additions"/>
+            <pb n="1" facs="tcp:96111:1"/>
+            <head>
+               <hi>MONSIEVR COVENANTS</hi> Laſt VVILL and TESTAMENT.</head>
+            <p>
+               <seg rend="decorInit">S</seg>Ick, mortally ſick, heart-ſick, and without hope of redemption; yet of as ſound, and perfect me<g ref="char:EOLhyphen"/>mory, as when I was <hi>Maſter</hi> of the <hi>Treaſury,</hi> and kept the <hi>Register</hi> of <hi>State-conſciences</hi> in mine own hand. And though my <hi>foundation</hi> be thrown down, and the <hi>leaſe</hi> of my <hi>life</hi> near <hi>done,</hi> I have left that behind me which ſhall give <hi>cauſe</hi> to Poſterity to remember me. So as, though I; <hi>Rump-like,</hi> ſhould fry in the <hi>fire:</hi> or <hi>Phaenix-like</hi> be reſolv'd to mouldred aſhes, my <hi>memory</hi> ſhall live ſtill in the <hi>Calender</hi> of the <hi>GOOD OLD CAUSE;</hi> in defence whereof I appeared ſo ſtout a <hi>Champion,</hi> till theſe late <hi>Vindicators</hi> of their <hi>Liberty</hi> fought me out of breath. Wherein how I behaved my ſelf both <hi>here</hi> and in that <hi>Neighbouring-Nation</hi> (which received me, nay nurſed me, as if I had been their <hi>Darling</hi>) I freely appeal to my <hi>Compurgators,</hi> thoſe many truſty <hi>Co—jurers</hi> of mine, who ſwore valiantly for me; nay ſwore many out of their <hi>lives</hi> and <hi>fortunes,</hi> that they might more devotionally ſerve me. But theſe <hi>Memorials</hi> ſuit not with my con<g ref="char:EOLhyphen"/>dition, I am now marching to my <hi>Doom,</hi> for now that <hi>Spit-fire,</hi> that <hi>Tyburn</hi> topman appears, who has made <hi>Exchange</hi> of his <hi>Loup</hi> with a <hi>Link,</hi> to ſquib out my Spirit with his <hi>conſuming light.</hi> Now then to my <hi>WILL,</hi> though I have no <hi>Will</hi> to make it, for though I value not the world much, having ſo unfaithfully dealt with me, and broke my <hi>COVENANT:</hi> yet ſo indeared be my Allies to me, and ſo ſtoutly have they ſided with me, and ſo unanimouſly ſupported me, as it is a torment to me to leave them in the <hi>Lees;</hi> or like moulted <hi>Scale<g ref="char:EOLhyphen"/>drakes</hi> drilling, and drivelling under-water, ſculking like ſo many forlorn <hi>Runnagado's</hi> in every blind corner, and curſing thoſe <hi>Incen<g ref="char:EOLhyphen"/>diaries</hi> of my deſerted <hi>Covenant,</hi> the ſole foretreſſe of their honour.</p>
+            <p>It is not unknown to me how ſaucily one of the <hi>Cavalier-Synod</hi>
+               <pb n="2" facs="tcp:96111:2"/>jeer'd me before my ſentence was pronounced, who ſtanding up uſed theſe words; <hi>Whereas he was of opinion, that the Covenant had been ſo long time laid aſide, as he verily thought it was grown moiſt and dampiſh: and conſequently leſſe apt to take fire: he held it fitting that thoſe fiery and spritely Works of Mr.</hi> PRIN <hi>ſhould be joyned to it, to make it more combustible.</hi>
+            </p>
+            <p>In the diſpoſal then of my <hi>Corporal</hi> Eſtate (for <hi>Temporal</hi> I have none worth looking after) civil gratitude injoyns me to beſtow my beſt wiſhes, and bequeath my <hi>chiefeſt Legacies</hi> upon my <hi>choiceſt friends.</hi> Firſt, it is my <hi>Will</hi> (which I hope my <hi>Teſtators</hi> will never labour to reverſe, nor queſtion in a <hi>Court of Conſcience,</hi> a Synodall which I have ever mortally hated) that after <hi>diſſection</hi> of my <hi>body,</hi> the conſtitution whereof I have felt daily ſailing and falling into decay, ever ſince my dear <hi>Rump</hi> was ſo Jewiſhly circumciſed, nay ſhamefully carbonado'd; this ſmall remainder or Fag-end of my <hi>Covenanters</hi> receive to their ſole uſe and behoof the light, and be<g ref="char:EOLhyphen"/>nefit of mine <hi>Eyes;</hi> knowing well that they muſt either look about them, or be catcht; and ſo become a pitiful prey to thoſe that hate them. As for my <hi>Brains,</hi> I beſtow them on the <hi>Phanatick,</hi> his Zeal makes him more <hi>desperate</hi> then <hi>diſcreet.</hi> Let him fight, but know the power of his <hi>Complices</hi> firſt. I could wiſh too, that when he has ſufficiently ſupplyed his own <hi>Intereſt;</hi> in a Brotherly pity he would contribute his aſſiſtance to my <hi>feveriſh</hi> Brother the <hi>upright Quaker:</hi> who though he would not atteſt my <hi>Covenant</hi> with an Oath (being a tye which his <hi>ſcrupulous Conſcience</hi> ever bogled at) yet cordially held he cloſely to the maineſt of my <hi>Anarchicall Principles.</hi> In lieu whereof (for I would never appear regardleſſe of the ſecurity of my friend) it is my deſire that the groſſeſt, and un<g ref="char:EOLhyphen"/>refinedeſt part of thoſe <hi>Brains</hi> bequeathed as aforeſaid, ſhould be infuſed, and carefully boiled in a pipkin, with ſome grains of <hi>Mer<g ref="char:EOLhyphen"/>cury,</hi> pure and unmortifyed <hi>quick-ſilver,</hi> with ſundry other Chymi<g ref="char:EOLhyphen"/>call Ingrediencies, artificially mixed: purpoſely to enliven the drowſie Spirit of my <hi>Quaker,</hi> and make him more factiouſly active. This is the beſt <hi>receipt</hi> that can be applyed to his crazy condition; both to ſecure him in the <hi>Holy wayes</hi> of his <hi>Calling,</hi> as likewiſe to fortifie him in any action of ſervice wherein his <hi>beloved fraternity</hi> ſhall be pleaſed to imploy him: or in whatſoever he ſhall be affron<g ref="char:EOLhyphen"/>ted by thoſe <hi>Libertines</hi> that ſhall maligne him. And to inable him
+<pb n="3" facs="tcp:96111:2"/>the better, it were not amiſs, if he chaf'd, and cheer'd his ſinue<g ref="char:EOLhyphen"/>ſhrunk arteries with the <hi>nerve-oyle</hi> of a ſpritely <hi>Leveller:</hi> this will ſcrue up his drooping Spirit to a lofty pin.</p>
+            <p>But give me leave a little to look <hi>upward</hi> before I go <hi>downward:</hi> and travel over Sea by <hi>direction,</hi> where I ſhall never be received by colour of my <hi>Commiſſion.</hi> And in the firſt place, my dear and truſty <hi>GOF,</hi> I muſt not forget thee; thou held my <hi>Covenant</hi> for an Article of Faith, and ſpoke ſtoutly for it, till thy <hi>pipes</hi> grew accidentally <hi>ſtopt:</hi> to ſupply which defect, and render me thankful, I bequeath thee my <hi>Lungs</hi> before <hi>Dun</hi> diſmal hand handle them, either by <hi>ſeazing</hi> or <hi>cinging</hi> them. 2ly, I am to have an eye on my old friend <hi>HUSON,</hi> for that <hi>one-eyed Aulman</hi> can find <hi>no more</hi> for me; I do leave him a <hi>Spe<g ref="char:EOLhyphen"/>ctacle</hi> with <hi>one light</hi> which an honeſt <hi>Monoculiſt</hi> beſtow'd on me at his death, and ſome little time before the birth of my now diſcoun<g ref="char:EOLhyphen"/>tenanc'd <hi>Covenant.</hi> To put him upon a <hi>deſign</hi> I ſhall not need, his <hi>Profeſſion</hi> was never without <hi>Ends.</hi> I could wiſh him both his eyes to prevent a ſad one. But I fear infinitely (if my fear could ſecure him) that the <hi>blind Hunx,</hi> unleſs he break his chain, will ſcarcely eſcape the Nooze, for he is ſure to be baited by two tryed dogs, and both of the <hi>Garden,</hi> that will <hi>Collar</hi> with him: <hi>Ball</hi> and <hi>Porter,</hi> I mean, who know how to <hi>hold,</hi> and <hi>keep</hi> him at advantage. As for my <hi>diſ<g ref="char:EOLhyphen"/>carded Jeweller</hi> unfortunate <hi>BAXTER,</hi> it grieves me to hear his <hi>Tower-rents diſrented.</hi> It was once in my mind to have ſent him over a Ream or two of my ſcattered <hi>Covenants</hi> (for both <hi>Preſſe</hi> and <hi>State</hi> grew weary of them) purpoſely to wrap up his rich Carknets, Bracelets, and Lockets: but hearing lately how all thoſe <hi>precious Prizals</hi> were by miſpriſion laid in <hi>Lavander,</hi> their <hi>unhappy converſi<g ref="char:EOLhyphen"/>on</hi> ſav'd me a labour.</p>
+            <p>I am not unmindful of Commiſſary <hi>WHALEY,</hi> nor thoſe inſup<g ref="char:EOLhyphen"/>portable affronts his undaunted patience has incountered in my de<g ref="char:EOLhyphen"/>fence. I could willingly bequeath him my <hi>Stomack,</hi> with which I might ſometimes have compared with the <hi>Eſtrich:</hi> for <hi>Iron</hi> is of ea<g ref="char:EOLhyphen"/>ſier digeſtion then <hi>wrongs.</hi> But his intimacy with our <hi>Great Maſter OLIVER</hi> (if he may ſafely paſs over the <hi>Stygian Flood</hi>) will afford him better advice, and quicker reliefe, if there be any Place or Of<g ref="char:EOLhyphen"/>fice in that <hi>Region,</hi> then the Countenance or Sollicitancy of his neareſt <hi>Allies</hi> here. So as I leave him there to take up <hi>free-quarter.</hi>
+            </p>
+            <p>—Oh me! the fear of my approaching diſpatch (for I hear <hi>DUN</hi>
+               <pb n="4" facs="tcp:96111:3"/>at the door) had quite put out of my mind the memory of my in<g ref="char:EOLhyphen"/>cloiſtered Crimſon Favourite Juſtice <hi>LISLE;</hi> his <hi>Sanctuary</hi> or <hi>book,</hi> I hope will ſave him; otherwiſe thoſe <hi>decayed Carkaſſes</hi> of his <hi>old acquaintance</hi> lately lodged near <hi>Paddington</hi> will prefer their Pe<g ref="char:EOLhyphen"/>tition by a ſollicitous <hi>Mercury,</hi> for the injoyment of his Company.</p>
+            <p>Thus from the aſhes of my cindrous fortunes have I contributed to my caſhier'd friends. Legs have I yet left me, which I would beſtow for Legacies on thoſe <hi>in-grated Cubs</hi> in the <hi>Tower,</hi> if they could make uſe of them. But ſince they cannot, I muſt: being now jogging on to that <hi>place</hi> which I hated moſt: and to that <hi>end</hi> which I feared leaſt.—Yet <hi>Solamen miſeris!</hi> I ſee by a Landskip my anti<g ref="char:EOLhyphen"/>ent conſtant Comrade <hi>ARGILE,</hi> (whoſe <hi>Nation,</hi> though it gave me <hi>firſt birth,</hi> it moſt unnaturally <hi>doom'd</hi> me to death) ſtalking ſame way, and the very ſame<note n="*" place="margin">As it was re<g ref="char:EOLhyphen"/>ported and intended, though after<g ref="char:EOLhyphen"/>wards other<g ref="char:EOLhyphen"/>wiſe executed. With whom two Stout Scotch Sectaries <hi>GUTHREY</hi> and <hi>GIFFEN</hi> our faithfull Covenanters, with un<g ref="char:EOLhyphen"/>daunted courage ſuffered; Scoffing at death, ſaying, when their hands were tyed behind them with a Garter: <hi>Take notice, Brethren, we are mounted to high honour, and now at our deaths</hi> inve<g ref="char:EOLhyphen"/>ſted with a <hi>gallant Order;</hi> for we are made <hi>Knights</hi> of the <hi>Garter!</hi> So bravely did theſe <hi>Kirk-Rufflers</hi> domineer it in a <hi>halter.</hi>
+               </note> day: while in this my <hi>laſt walk,</hi> I obſerve to mine honour, the pomp of the world emblematiz'd in me, and my late <hi>Protector.</hi> He left the world with a blaſt, I with a flaſh.</p>
+            <p>Thus by <hi>ſuſpence</hi> (whereto it was voted by ſome who took it) is my <hi>Covenant</hi> quite reft of ſenſe; and my deſerted hopes of revivall.</p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
